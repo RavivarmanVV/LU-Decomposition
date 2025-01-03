@@ -25,7 +25,7 @@ To write a program to find the LU Decomposition of a matrix.
       print(L)
       print(U)
 
-(ii) To find the LU Decomposition of a matrix
+(ii) To find the LU Decomposition of a matrice
 ```
 /*
 Program to find the LU Decomposition of a matrix.
